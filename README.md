@@ -1,6 +1,5 @@
 # file-finder.py
-A simple pyhon scripts to find file containing the word given
+A simple pyhon scripts that  finds all  files  containing the string given. Should be run from terminal
 
 # How to run on  linux
-EXMPL
-python3 file-finder.py ineedtofindthis.mp4
+python3 file-finder.py <What i want to find>
