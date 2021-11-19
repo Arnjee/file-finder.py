@@ -1,6 +1,6 @@
 # file-finder.py
 A simple pyhon scripts to find file containing the word given
 
-#How to run on  linux
-
-python3 file-finder.py <add what you want to find here>
+# How to run on  linux
+EXMPL
+python3 file-finder.py ineedtofindthis.mp4
